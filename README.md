@@ -1,5 +1,7 @@
 # Image Reconstruction from Neuromorphic Event Cameras using Laplacian Prediction and Poisson Integration with Spiking and Artificial Neural Networks
 
+![Model](https://github.com/NBELab/CVPR-2021-W/blob/main/figures/model_new.png)
+
 ## Install
 
 Dependencies:
