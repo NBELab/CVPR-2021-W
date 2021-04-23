@@ -13,7 +13,7 @@ Dependencies:
 
 ## Notebooks
 
-The code for shared weighed model :[shared_weight_model.ipynb](https://github.com/NBELab/CVPR-2021-W/blob/main/notebooks/shared_weight_model.ipynb)
+The code for the shared weighed model :[shared_weight_model.ipynb](https://github.com/NBELab/CVPR-2021-W/blob/main/notebooks/shared_weight_model.ipynb)
 
 The code for the spiking neural network: [nengo_snn_PI_model_5.ipynb](https://github.com/NBELab/CVPR-2021-W/blob/main/notebooks/nengo_snn_PI_model_5.ipynb)
 
