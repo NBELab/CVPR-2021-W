@@ -27,6 +27,11 @@ We converted each event-file from [N-Caltech Dataset](https://www.garrickorchard
 Or download subset of the dataset: [testX](https://drive.google.com/file/d/1iMwDNw7k6r-uN7--6oYCjf_12Dw4G4xY/view?usp=sharing) is the inputs to model.
 [testY](https://drive.google.com/file/d/1a9RfKLQCXPTnaT-GbWXjY88bGr5qmTiL/view?usp=sharing) is the targets (Laplacians of the original [Caltech 101](http://www.vision.caltech.edu/Image_Datasets/Caltech101/) image)
 
+
+## Paper
+
+[Paper](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/html/Duwek_Image_Reconstruction_From_Neuromorphic_Event_Cameras_Using_Laplacian-Prediction_and_Poisson_CVPRW_2021_paper.html)
+
 ```bibtex
 @InProceedings{Duwek_2021_CVPR,
     author    = {Duwek, Hadar Cohen and Shalumov, Albert and Tsur, Elishai Ezra},
