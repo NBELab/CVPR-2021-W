@@ -26,3 +26,14 @@ We converted each event-file from [N-Caltech Dataset](https://www.garrickorchard
 
 Or download subset of the dataset: [testX](https://drive.google.com/file/d/1iMwDNw7k6r-uN7--6oYCjf_12Dw4G4xY/view?usp=sharing) is the inputs to model.
 [testY](https://drive.google.com/file/d/1a9RfKLQCXPTnaT-GbWXjY88bGr5qmTiL/view?usp=sharing) is the targets (Laplacians of the original [Caltech 101](http://www.vision.caltech.edu/Image_Datasets/Caltech101/) image)
+
+```bibtex
+@InProceedings{Duwek_2021_CVPR,
+    author    = {Duwek, Hadar Cohen and Shalumov, Albert and Tsur, Elishai Ezra},
+    title     = {Image Reconstruction From Neuromorphic Event Cameras Using Laplacian-Prediction and Poisson Integration With Spiking and Artificial Neural Networks},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2021},
+    pages     = {1333-1341}
+}
+```
