@@ -34,7 +34,7 @@ Or download subset of the dataset: [testX](https://drive.google.com/file/d/1iMwD
 
 ```bibtex
 @InProceedings{Duwek_2021_CVPR,
-    author    = {Duwek, Hadar Cohen and Shalumov, Albert and Tsur, Elishai Ezra},
+    author    = {Cohen-Duwek, Hadar and Shalumov, Albert and Tsur, Elishai Ezra},
     title     = {Image Reconstruction From Neuromorphic Event Cameras Using Laplacian-Prediction and Poisson Integration With Spiking and Artificial Neural Networks},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
     month     = {June},
